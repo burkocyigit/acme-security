@@ -8,67 +8,70 @@ assignees: ''
 
 ## 👤 Candidate Information
 
-**Full Name:** Burak Koçyiğit
-**Email:**  brkkcygt32@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/burkocyigit/
-**Location:** Isparta
-**Submission Date:** 09.11.2025
+**Full Name:** 
+**Email:** 
+**LinkedIn:** _(optional)_
+**Location:** _(optional)_
+**Submission Date:** 
 
 ---
 
 ## 📎 Submission Files
 
 **Option A: Attached Files**
-- Report PDF: [Burak_Kocyigit_Report](../submissions/Burak_Kocyigit_Report.pdf)
-- Video link: [[VIDEO] Burak Koçyiğit - Security Incident Lab](https://youtu.be/V0h72h3YgbE)
+- Report PDF: [Attach here]
+- Video link: 
+
+**Option B: External Links**
+- Report: [Google Drive / Dropbox link]
+- Video: [YouTube / Vimeo / Loom link]
 
 ---
 
 ## ⏱️ Time Tracking
 
-**Total time spent:** 8 hours
+**Total time spent:** ___ hours
 
 **Breakdown:**
-- Log analysis: 1 hours
-- Architecture design: 1 hours
-- Report writing: 4 hours
-- Video creation: 2 hours
+- Log analysis: ___ hours
+- Architecture design: ___ hours
+- Report writing: ___ hours
+- Video creation: ___ hours
 
 ---
 
 ## 🎯 Summary
 
 ### Attack Vectors Identified
-1. API Broken Object Level Authorization
-2. Web Application SQL Injection
-3. Employees Through Phishing
+1. 
+2. 
+3. 
 
 ### Key Findings
-- Broken Access Control on /api/v1/portfolio/[id]
-- SQL Injection on Web Application at /dashboard/search
-- Poor Security Awareness
+- 
+- 
+- 
 
 ### Top 3 Recommendations
-1. Implement security enforcement on email gateway such as DMARC, DKIM and SPF
-2. Add managed and custom rules, configure the WAF to block certain events
-3. Patch the critical vulnerabilities in code level on the applications
+1. 
+2. 
+3. 
 
 ---
 
 ## 🛠️ Tools Used
 
 **Analysis:**
-- VSCode Excel Viewer
-- grep
+- 
 
 **Diagrams:**
-- draw.io
+- 
 
 **Video:**
-- OBS
+- 
 
 **Other:**
-- Microsoft Word
+- 
 
 ---
 
@@ -77,27 +80,27 @@ assignees: ''
 Please confirm:
 
 - [ ] Report is max 5 pages
-- [*] Video is 10-15 minutes
-- [*] All log files were analyzed
-- [*] Timeline is timezone-corrected
-- [*] Framework mappings included (ISO 27001, NIST, OWASP)
-- [*] Architecture diagram included
-- [*] Video link is tested and working
-- [*] No plagiarism / proper attribution
-- [*] Original work, not AI-generated
+- [ ] Video is 10-15 minutes
+- [ ] All log files were analyzed
+- [ ] Timeline is timezone-corrected
+- [ ] Framework mappings included (ISO 27001, NIST, OWASP)
+- [ ] Architecture diagram included
+- [ ] Video link is tested and working
+- [ ] No plagiarism / proper attribution
+- [ ] Original work, not AI-generated
 
 ---
 
 ## 💬 Optional Feedback
 
 **What did you think of this lab?**
-Learnt from it a lot, fun.
+
 
 **Any suggestions for improvement?**
 
 
 **Would you recommend this to others?**
-- [*] Yes
+- [ ] Yes
 - [ ] No
 - [ ] Maybe
 
@@ -106,13 +109,12 @@ Learnt from it a lot, fun.
 ## 📧 Contact Preference
 
 **Preferred contact method:**
-- [*] Email
-- [*] LinkedIn
+- [ ] Email
+- [ ] LinkedIn
 - [ ] GitHub
 
 **Best time to reach you:**
 
-Anytime
 
 ---
 
@@ -120,8 +122,8 @@ Anytime
 
 I declare that this submission is my original work and I have followed all guidelines.
 
-**Name:** Burak Koçyiğit
-**Date:** 09.11.2025
+**Name:** 
+**Date:** 
 
 ---
 
