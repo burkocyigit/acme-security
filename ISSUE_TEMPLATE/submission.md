@@ -120,7 +120,7 @@ Anytime
 
 I declare that this submission is my original work and I have followed all guidelines.
 
-**Name:** Burak Koçyiğit        
+**Name:** Burak Koçyiğit
 **Date:** 09.11.2025
 
 ---
