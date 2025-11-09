@@ -84,10 +84,10 @@
 ### Prerequisites
 
 Before starting, make sure you have:
-- [ ] A GitHub account ([sign up here](https://github.com/signup) if needed)
-- [ ] Git installed on your computer ([download here](https://git-scm.com/downloads))
-- [ ] Your report PDF ready
-- [ ] Your video uploaded and link ready
+- [*] A GitHub account ([sign up here](https://github.com/signup) if needed)
+- [*] Git installed on your computer ([download here](https://git-scm.com/downloads))
+- [*] Your report PDF ready
+- [*] Your video uploaded and link ready
 
 ---
 
@@ -102,7 +102,7 @@ Before starting, make sure you have:
 3. Select your GitHub account as the destination
 4. Wait a few seconds - you now have your own copy!
 
-Your fork will be at: `https://github.com/YOUR_USERNAME/acme-security`
+Your fork will be at: `https://github.com/burkocyigit/acme-security`
 
 ---
 
